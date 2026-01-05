@@ -95,7 +95,7 @@ I believe in learning through hands-on experience. Every project represents a ch
 | Degree | Institution | Status | Specialization |
 |:-------|:------------|:-------|:---------------|
 | **Master of Science in Cloud Computing** | Woolf University | In Progress | Cloud Architecture, Distributed Systems, DevOps Engineering |
-| **Bachelor of Computer Applications** | — | Graduated 2025 | Software Development, Database Systems, Computer Networks |
+| **Bachelor of Computer Applications** | Bangalore City University | Graduated 2025 | Software Development, Database Systems, Computer Networks |
 
 </div>
 
