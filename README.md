@@ -51,7 +51,7 @@ DevOps and Cloud Engineer specializing in automation, containerization, and clou
 
 ### Professional Philosophy
 
-> "Build. Break. Fix. Learn. Repeat."
+> "Build. Break. Fix. Learn. Repeat..."
 
 I believe in learning through hands-on experience. Every project represents a challenge overcome and a lesson learned through practical application.
 
