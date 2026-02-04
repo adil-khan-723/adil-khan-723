@@ -1,6 +1,7 @@
 <!-- Animated Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1050&lines=Hello!+I'm+Adil+Khan;DevOps+%26+Cloud+Engineer;MS+in+Cloud+Computing+Student;Automating+Infrastructure+and+Building+Scalable+Solutions" alt="Typing SVG" />
+
 </div>
 
 <!-- Status Badges -->
